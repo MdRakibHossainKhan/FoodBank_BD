@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodBank BD</string>
+    <string name="welcome_note">Welcome to FoodBank BD</string>
+    <string name="selection_dialogue">(Please Select an Area in Dhaka City)</string>
+    <string name="offers_title">Offers\' Title</string>
+    <string name="offer_name">Offer Name:\n</string>
+    <string name="offer_location">Location:\n</string>
+    <string name="offer_price">Price: ৳</string>
+    <string name="offer_duration">Duration:\n</string>
+    <string name="offer_item">Item:\n</string>
+    <string name="offer_description">Description:\n</string>
+    <string name="offer_image">Offer Image</string>
+    <string name="offer_map">Map</string>
+</resources>
