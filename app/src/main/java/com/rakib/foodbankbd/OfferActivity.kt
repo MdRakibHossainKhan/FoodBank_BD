@@ -25,7 +25,7 @@ class OfferActivity : AppCompatActivity(), View.OnClickListener {
             imageViewOfferImage.setImageResource(singleOffer.offerImage)
             textViewOfferName.append(singleOffer.offerName)
             textViewOfferLocation.append(singleOffer.offerLocation)
-            textViewOfferPrice.append(java.lang.Double.toString(singleOffer.offerPrice))
+            textViewOfferPrice.append(singleOffer.offerPrice.toString())
             textViewOfferDuration.append(singleOffer.offerDuration)
             textViewOfferItem.append(singleOffer.offerItem)
             textViewOfferDescription.append(singleOffer.offerDescription)
